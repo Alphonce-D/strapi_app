@@ -1,0 +1,17 @@
+{
+  "name": "gridsome_app",
+  "private": true,
+  "scripts": {
+    "develop": "gridsome develop",
+    "explore": "gridsome explore",
+    "build": "gridsome build"
+  },
+  "dependencies": {
+    "gridsome": "^0.7.0",
+    "vee-validate": "^3.4.9",
+    "vuetify": "^2.5.4"
+  },
+  "devDependencies": {
+    "webpack-node-externals": "^3.0.0"
+  }
+}
